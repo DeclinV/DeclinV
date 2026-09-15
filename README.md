@@ -21,4 +21,4 @@ Python · R · SQL · C# · JavaScript
 
 ## Contact
 
-declinvorkel@gmail.com · [LinkedIn](https://www.linkedin.com/in/declinvorkel/)
+decvorkel@gmail.com · [LinkedIn](https://www.linkedin.com/in/declinvorkel/)
