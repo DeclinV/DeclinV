@@ -1,10 +1,10 @@
 # Hello, I'm Declin
 
-Data Science student at Belgium Campus iTversity, Pretoria, with hands-on experience across machine learning, business intelligence, and data-driven systems. Open to relocating for work.
+Data Science student at Belgium Campus iTversity, Pretoria, with hands-on experience across machine learning, business intelligence, and data-driven systems.
 
 ## Experience
 
-**Business Systems Analyst** — Red Alert Service Solutions (May 2024 – Oct 2025)
+**Business Systems Analyst**: Red Alert Service Solutions (May 2024 – Oct 2025)
 Built automated workflows, approval processes, and interactive dashboards for business data collection and reporting.
 
 ## Featured Projects
